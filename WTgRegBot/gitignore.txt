@@ -1,0 +1,13 @@
+﻿bin/
+obj/
+*.session
+*.db
+sessions_*/
+profiles.db
+.env
+*.log
+*.user
+*.suo
+*.cache
+*.pdb
+*.vs/

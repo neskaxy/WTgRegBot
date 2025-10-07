@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WTgRegBot", "WTgRegBot\WTgRegBot.csproj", "{BCEFB9CB-03B5-42E8-94D8-0B1C1074C2CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCEFB9CB-03B5-42E8-94D8-0B1C1074C2CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCEFB9CB-03B5-42E8-94D8-0B1C1074C2CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCEFB9CB-03B5-42E8-94D8-0B1C1074C2CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCEFB9CB-03B5-42E8-94D8-0B1C1074C2CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65ED23E8-7502-49D0-A76C-BEF71D5B6A99}
+	EndGlobalSection
+EndGlobal
