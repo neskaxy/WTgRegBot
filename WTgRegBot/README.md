@@ -23,9 +23,9 @@
 1. Получаем данные API ID и API Hash на https://my.telegram.org/auth
 
 2. Устанавливаем пакеты NuGet в проект:
-dotnet add package Telegram.Bot
-dotnet add package WTelegramClient
-dotnet add package Microsoft.Data.Sqlite
+- dotnet add package Telegram.Bot
+- dotnet add package WTelegramClient
+- dotnet add package Microsoft.Data.Sqlite
 
 3. Указываем токен бота в коде внутри ковычек
 BOT_TOKEN="твой_токен"
